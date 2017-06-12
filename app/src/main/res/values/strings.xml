@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MondayExam</string>
+    <string name="lbl_result_name">Response Name: %1$d</string>
+    <string name="lbl_result_address">Response Address: %1$s</string>
+    <string name="lbl_result_email">Response Email: %1$s</string>
 </resources>

@@ -1,18 +1,15 @@
 package com.example.android.mondayexam;
 
 import android.content.Intent;
+import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
-
-import com.example.android.userinfocall2.Entities.RandomAPI;
-import com.example.android.userinfocall2.Entities.Result;
 
 import java.util.ArrayList;
 
